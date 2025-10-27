@@ -88,6 +88,7 @@ body {
   background: #403795;
 }
 .quiz-container {
+  display: block;
   width: 480px;
 }
 .quiz-content .question-text {
